@@ -1,4 +1,4 @@
-# Sobre: Script para identificar todos os dispositivos OnLine na rede (Informações detalhadas), vulnerabilidades e arquivos ocultos na web. <br>
+# Sobre: Automatizar tarefas em banco de dados PostGreSQL. <br>
 
 <b># Scan_Rede<b><br>
 Linkedin: https://www.linkedin.com/in/thalles-canela/ <br>
@@ -11,7 +11,7 @@ Padim:    https://www.padrim.com.br/aXR6CyberSecurity <br>
 
 # Objetivo do Script
 ```
-Automatizar tarefas em banco de dados PostGreSQL.
+Menu de Gerenciamento do PostgreSQL.
 1. Listar todos os usuários
 2. Listar todos os bancos de dados
 3. Listar todas as tabelas de um banco de dados específico
